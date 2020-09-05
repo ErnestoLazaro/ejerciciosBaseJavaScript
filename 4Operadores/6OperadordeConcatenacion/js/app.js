@@ -6,8 +6,8 @@
 var datoA = 10;
 var datoB = 20;
 
-var nombre = "Sergio";
-var apellido = "Brito";
+var nombre = "Ernesto";
+var apellido = "Lazaro";
 
 // CONCATENACIÓN DE NÚMEROS
 var concatNumeros = datoA + datoB;

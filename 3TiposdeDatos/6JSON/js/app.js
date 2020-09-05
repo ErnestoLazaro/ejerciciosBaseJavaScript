@@ -2,12 +2,12 @@
 
 // JSON => JavaScript Object Notation
 
-var persona = {nombre: 'Sergio', twitter: 'yacafx'};
+var persona = {nombre: 'Ernesto', twitter: 'ErnestoLazaros'};
 
 var personas = [
-    {nombre: 'Hugo', twitter: 'dcHugo'},
-    {nombre: 'Paco', twitter: 'dcPaco'},
-    {nombre: 'Luis', twitter: 'dcLuis'},
+    {nombre: 'Miris', twitter: 'dcMiris'},
+    {nombre: 'AleDormilongue', twitter: 'dcAleDormilongue'},
+    {nombre: 'Bonis', twitter: 'dcBonis'},
     persona
 ]
 
