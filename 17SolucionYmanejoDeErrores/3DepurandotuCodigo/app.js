@@ -1,6 +1,6 @@
 "use strict";
 
-//********************************
+//************ErnestoLazaro********************
 //***  Depurando tu código
 
 class Producto {
